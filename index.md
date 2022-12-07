@@ -2,7 +2,8 @@
 title: Alan's CG Chronicles
 ---
 
-<h2><p>I am Alan, a computer science undergraduate student at the University of Cincinnati, interested in the field of Computer Graphics. I decided to create this website as a means to journal my progress as I learn new topics in Computer Graphics.
+<h2>About me</h2>
+ <p>Hi, I am Alan, a computer science undergraduate student at the University of Cincinnati, interested in the field of Computer Graphics. I decided to create this website as a means to journal my progress as I learn new topics in Computer Graphics.
 
 <br>
 
@@ -14,4 +15,4 @@ I first started off with implementing a simple software(CPU) renderer, and then 
 
 <br>
 The Research project involves investigating active stereo rendering using active shutter glasses and high refreshrate monitors.
- <p></h2>
+ <p>
